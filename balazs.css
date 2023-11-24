@@ -1,0 +1,35 @@
+h3{
+    align-self: center;
+    text-align: center;
+}
+table{
+    border-inline: 1px solid black;
+    width: 100%;
+    border: 1px solid black;
+}
+body{
+    background-color: white;
+    margin: 0;
+}
+
+table tr:nth-child(1){
+    color:white;
+    height: 35px;
+    font-size: 15px;
+    padding: 10px;
+    text-align: center;
+    background-color: black;
+}
+
+table td{
+    text-align: center;
+    width: 300px;
+    align-items: center;
+}
+img{
+    width: 200px;
+    margin: 0;
+    height: 300px;
+    align-self: center;
+    padding: 10px;
+}
